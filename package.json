@@ -2,7 +2,7 @@
     "name": "casper-hugo",
     "description": "A modified version of Ghost's Casper theme",
     "demo": "https://demo.ghost.io",
-    "version": "3.0.11",
+    "version": "3.0.12",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
